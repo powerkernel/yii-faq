@@ -35,4 +35,4 @@ php yii mongodb-migrate --migrationPath=@vendor/powerkernel/yii-faq/src/migratio
 
 API Documentation
 -----------------
-[View on Postman](https://to-be-doc.io)
+[View on Postman](https://documenter.getpostman.com/view/4282480/RWTeX37L)
