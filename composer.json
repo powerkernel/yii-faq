@@ -1,0 +1,27 @@
+{
+  "name": "powerkernel/yii-faq",
+  "description": "Yii FAQ module",
+  "type": "yii-module",
+  "homepage": "https://powerkernel.com",
+  "keywords": [
+    "yii",
+    "faq",
+    "help",
+    "module"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Harry Tang",
+      "email": "harry@powerkernel.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "3.0.x-dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "powerkernel\\yiifaq\\": "src"
+    }
+  }
+}
